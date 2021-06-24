@@ -1,16 +1,9 @@
-# practiseproject
+A simple Project to track the live location of the user 
+Steps to create the project are given in this medium post:
+https://aayushbajaj505.medium.com/flutter-google-maps-and-live-location-tracking-83bb8224032c
 
-A new Flutter project.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/57327053/123325744-0607a480-d556-11eb-9b11-a55bff9e33f2.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Known error: The application crashes when first started but works fine after a refresh still working on fixing it if you find the fix do ping me.
+thanks
