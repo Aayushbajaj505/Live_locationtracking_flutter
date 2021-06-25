@@ -5,10 +5,11 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 class LocationProvider with ChangeNotifier {
   // create a location varibale
   late Location _location;
+
   //create a getter so that its not exposed
   Location get location => _location;
 
-  late LatLng _locationPosition;
+  LatLng _locationPosition = LatLng(28.555, 28.555);
 
   LatLng get locationPosition => _locationPosition;
 
