@@ -7,5 +7,3 @@ Please note you will have to generatge your own api key  for the google maps sdk
 
 ![image](https://user-images.githubusercontent.com/57327053/123325744-0607a480-d556-11eb-9b11-a55bff9e33f2.png)
 
-Known error: The application crashes when first started but works fine after a refresh still working on fixing it if you find the fix do ping me.
-thanks
